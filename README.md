@@ -1,2 +1,0 @@
-# Scrabble-Project
-Scrabble Project 
